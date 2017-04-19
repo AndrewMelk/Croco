@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Croco</string>
+    <string name="addButton">Додати</string>
+    <string name="showWord">Дивитись слово</string>
+    <string name="wordGuessed">Слово угадано</string>
+    <string name="nextWord">Наступне слово</string>
+    <string name="startBtn">Старт</string>
+    <string name="nextPlayer">Наступний</string>
+    <string name="startGameBtn">Старт</string>
+    <string name="pvpGame">P vs P</string>
+    <string name="groupGame">Командна гра</string>
+    <string name="playerName">Імя гравця</string>
+    <string name="playerTeam">Команда</string>
+    <string name="startNewGameBtn">Почати нову гру</string>
+    <string name="NumberOfWords">Кількість слів</string>
+    <string name="GameTime">Час ходу (с)</string>
+    <string name="deleteItem">Утримуйте для видалення гравця</string>
+    <string name="clickStartButton">Натисніть Старт</string>
+    <string name="pleaseAddPlayers">Додайте гравців</string>
+    <string name="proffessionsWords">Професії</string>
+    <string name="difficultWords">Складні слова</string>
+    <string name="animalsWords">Тварини</string>
+    <string name="apphorismsWords">Афоризми</string>
+    <string name="tvShowsWords">ТВ шоу</string>
+    <string name="famousBrandsWords">Знамениті бренди</string>
+    <string name="hobbiesWords">Хобі</string>
+    <string name="filmsWords">Фільми</string>
+    <string name="typeWords">Типи слів</string>
+    <string name="selectTypeofWords">Виберіть типи слів</string>
+    <string name="players">Гравці</string>
+    <string name="endOfArray">Слова закінчилися</string>
+
+    <string-array name="time_array">
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+    </string-array>
+    <string-array name="words_array">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+    </string-array>
+</resources>

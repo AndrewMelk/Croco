@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Croco</string>
+    <string name="addButton">Add</string>
+    <string name="showWord">Show word</string>
+    <string name="wordGuessed">Word Guessed</string>
+    <string name="nextWord">Next word</string>
+    <string name="startBtn">Start</string>
+    <string name="nextPlayer">Next player</string>
+    <string name="startGameBtn">Start Game</string>
+    <string name="pvpGame">P vs P</string>
+    <string name="groupGame">Group game</string>
+    <string name="playerName">Player Name</string>
+    <string name="playerTeam">Player Team</string>
+    <string name="startNewGameBtn">Start New Game</string>
+    <string name="NumberOfWords">Number of words</string>
+    <string name="GameTime">Game time</string>
+    <string name="deleteItem">Long click to delete this item</string>
+    <string name="clickStartButton">Click Start Game Button</string>
+    <string name="pleaseAddPlayers">Please add players</string>
+    <string name="proffessionsWords">Proffessions Words</string>
+    <string name="difficultWords">Difficult Words</string>
+    <string name="animalsWords">Animals Words</string>
+    <string name="apphorismsWords">Aphorisms Words</string>
+    <string name="tvShowsWords">TV Shows Words</string>
+    <string name="famousBrandsWords">Famous Brands Words</string>
+    <string name="hobbiesWords">Hobbies Words</string>
+    <string name="filmsWords">Films Words</string>
+    <string name="typeWords">Type of words</string>
+    <string name="selectTypeofWords">Select Type of Words</string>
+    <string name="players">Players</string>
+    <string name="endOfArray">Words ended</string>
+
+    <string-array name="time_array">
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+    </string-array>
+    <string-array name="words_array">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+    </string-array>
+</resources>
